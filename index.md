@@ -1,6 +1,10 @@
-## Welcome to GitHub Pages
+## Suryansh's First CS193 Homework
+- CS193 has been an easy class so far.
+- I've missed one class already and think that I'm lacking.
+- I was too scared to do the homework before, however, I'm starting to like it a lot.
+- CS193 is one of my very fun and interactive classes.
 
-I am Suryansh Panwar a Junior in Statistics with Math Emphasis.
+## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
